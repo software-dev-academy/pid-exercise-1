@@ -10,7 +10,7 @@ golden retriever,lucy,2011
 dolphin,winter,2003
 duck,donald,2010
 ```
-## Task
+## Tasks
 - Write Java code with the following functionality:
 - Read the CSV file line by line, and extract the type, name, and birth year from each line.
 - Create a class "Animal" as well as several subclasses for the different types of animals represented in the text file. The subclasses must be able to store the information contained in each line of input.
@@ -31,7 +31,6 @@ Take into account the following aspects:
 - Proper management of resources, such as files.
 - Java 8 (or above) features should be used when suitable.
 - The code should be commented.
-
 ```
 Contents of the file "animals.csv":
 golden retriever,lucy,2011
